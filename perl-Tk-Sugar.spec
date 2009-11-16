@@ -1,5 +1,5 @@
 %define upstream_name    Tk-Sugar
-%define upstream_version 1.093180
+%define upstream_version 1.093190
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
